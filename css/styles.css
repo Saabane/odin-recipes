@@ -1,0 +1,14 @@
+h1 { 
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ul .one { 
+    background-color: aqua;
+}
+ul .two { 
+    background-color: rgb(22, 196, 31);
+}
+ul .three { 
+    background-color: rgb(96, 41, 141);
+}
